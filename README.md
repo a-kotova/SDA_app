@@ -9,7 +9,7 @@ For development, you will only need Node.js and a node global package.
 
 ## Install
 
-    $ git clone https://github.com/tomasz-jedrzejczyk/simple_js_server
+    $ git clone git@github.com:a-kotova/SDA_app.git
     $ cd simple_js_server
 
 ## Running the project
